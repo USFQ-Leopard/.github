@@ -1,2 +1,2 @@
-# Laboratorio de dEtecciÓn de Partículas Astropartículas y RaDiación | LEOPARD 
+# **L**aboratorio de d**E**tecciÓn de **P**artículas **A**stropartículas y **R**a**D**iación | LEOPARD 
 
