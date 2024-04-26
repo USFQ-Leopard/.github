@@ -1,6 +1,7 @@
 # *LEOPARD Lab* @ USFQ | Laboratorio de dEtecciÓn de Partículas Astropartículas y RaDiación  
 
 This is the Github repo for the [LEOPARD Lab](https://www.usfq.edu.ec/es/grupos-de-investigacion/laboratorio-de-deteccion-de-particulas-astroparticulas-y-radiaciones) at Universidad San Francisco de Quito (USFQ). 
+
 ![](https://github.com/USFQ-Leopard/.github/blob/main/profile/img/leopard_logo.JPG)
 
 
