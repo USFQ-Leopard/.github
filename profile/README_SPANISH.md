@@ -20,4 +20,4 @@ Nuestro objetivo es apoyar la investigación avanzada en física e ingeniería p
 Los proyectos de investigación en el Laboratorio LEOPARD están dirigidos por el Prof. Edgar Carrera Jarrín y el Prof. [Dennis Cazar](https://github.com/DennisCazar) en la USFQ. [Juan Esteban Zurita](https://github.com/jezur) es el mantenedor del repositorio del sitio. Contamos con muchos voluntarios y tesistas que están constantemente involucrados en nuestros proyectos.
 
 ## Contacto
-Si deseas informar un problema o sugerir una mejora, por favor abre un [issue](https://github.com/USFQ-Leopard/.github/issues) en este repositorio de Github, y podremos dar seguimiento a tus preguntas o sugerencias. También puedes contactar a Juan a través de [LinkedIn](www.linkedin.com/in/jezurita) si es necesario.
+Si deseas informar un problema o sugerir una mejora, por favor abre un [issue](https://github.com/USFQ-Leopard/.github/issues) en este repositorio de Github, y podremos dar seguimiento a tus preguntas o sugerencias. También puedes contactar a Juan a través de [LinkedIn](https://www.linkedin.com/in/jezurita) si es necesario.
