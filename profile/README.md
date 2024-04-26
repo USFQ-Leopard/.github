@@ -15,7 +15,7 @@ The Spanish version is available [here](https://github.com/USFQ-Leopard/.github/
 Our aim is to support advanced research in physics and engineering by providing infrastructure and fostering collaborations, both locally and internationally. It is involved with significant scientific collaborations such as the CMS at [CERN's LHC](https://home.cern/science/accelerators/large-hadron-collider) and [The Latin American Giant Observatory (LAGO)](http://lagoproject.net/index.html). The lab's research focuses on particle physics, astroparticle physics, and the development of detection systems. Its main activities include analyzing particle collider data, studying cosmic rays for high-energy phenomena, monitoring space weather, and innovating in detection technologies.
 
 ## The Team
-Research proyects at LEOPARD Lab are directed by Prof. Edgar Carrera Jarrín and Prof. [Dennis Cazar](https://github.com/DennisCazar) at USFQ. [Juan Esteban Zurita](https://github.com/jezur) is the site repository maintainer. We have many thesis students and volunteers and  constantly involved in our projects. 
+Research proyects at LEOPARD Lab are directed by Prof. Edgar Carrera Jarrín and Prof. [Dennis Cazar](https://github.com/DennisCazar) at USFQ. [Juan Esteban Zurita](https://github.com/jezur) is the site repository maintainer. We have many thesis students and volunteers constantly involved in our projects. 
 
 ## Contact
 If you wish to report an issue or suggest an improvement, please open an [issue](https://github.com/USFQ-Leopard/.github/issues) in this Github repository, and we can follow up on your questions or suggestions. You can also contact Juan via [LinkedIn](https://www.linkedin.com/in/jezurita) if necessary. 
