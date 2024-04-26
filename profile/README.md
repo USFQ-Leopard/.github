@@ -6,7 +6,7 @@ This is the Github repo for the [LEOPARD Lab](https://www.usfq.edu.ec/es/grupos-
 
 The Spanish version is available [here](README_SPANISH.md).
 
-**Table of Contents**
+### Table of Contents
 1. [About the Lab](#about-the-lab)
 2. [The Team](#the-team)
 3. [Contact](#contact)
