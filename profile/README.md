@@ -1,18 +1,4 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-
-
-# Laboratorio de dEtecciÓn de Partículas Astropartículas y RaDiación  
+## Laboratorio de dEtecciÓn de Partículas Astropartículas y RaDiación  
 
 This is the Github repo for the LEOPARD Lab at Universidad San Francisco de Quito (USFQ) supports advanced research 
 in physics and engineering by providing infrastructure and fostering collaborations, both locally and internationally. 
@@ -24,3 +10,13 @@ studying cosmic rays for high-energy phenomena, monitoring space weather, and in
 
 
 
+<!--
+
+**Here are some ideas to get you started:**
+
+🙋‍♀️ A short introduction - what is your organization all about?
+🌈 Contribution guidelines - how can the community get involved?
+👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
+🍿 Fun facts - what does your team eat for breakfast?
+🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+-->
