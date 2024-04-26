@@ -1,4 +1,4 @@
-# *LEOPARD*: Laboratorio de dEtecciÓn de Partículas Astropartículas y RaDiación  
+# *LEOPARD Lab*: Laboratorio de dEtecciÓn de Partículas Astropartículas y RaDiación  
 
 ![](https://github.com/USFQ-Leopard/.github/blob/main/profile/img/leopard_logo.JPG)
 
