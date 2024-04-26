@@ -4,7 +4,7 @@ Este es el repositorio de Github para el [Laboratorio LEOPARD](https://www.usfq.
 
 ![](https://github.com/USFQ-Leopard/.github/blob/main/profile/img/leopard_logo.JPG)
 
-La versión en inglés está disponible [aquí](README.md).
+La versión en inglés está disponible [aquí](https://github.com/USFQ-Leopard).
 
 
 ### Tabla de Contenidos
