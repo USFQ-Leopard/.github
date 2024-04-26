@@ -7,7 +7,7 @@ Este es el repositorio de Github para el [Laboratorio LEOPARD](https://www.usfq.
 La versión en inglés está disponible [aquí](README.md).
 
 
-## Índice de Contenidos
+### Tabla de Contenidos
 1. [Acerca del Laboratorio](#acerca-del-laboratorio)
 2. [El Equipo](#el-equipo)
 3. [Contacto](#contacto)
