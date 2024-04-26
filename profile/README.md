@@ -6,13 +6,14 @@ This is the Github repo for the [LEOPARD Lab](https://www.usfq.edu.ec/es/grupos-
 
 The Spanish version of this README is available [here](README_SPANISH.md).
 
-## About the project
+## About the lab
 Our aim is to support advanced research in physics and engineering by providing infrastructure and fostering collaborations, both locally and internationally. It is involved with significant scientific collaborations such as the CMS at [CERN's LHC](https://home.cern/science/accelerators/large-hadron-collider) and [The Latin American Giant Observatory (LAGO)](http://lagoproject.net/index.html). The lab's research focuses on particle physics, astroparticle physics, and the development of detection systems. Its main activities include analyzing particle collider data, studying cosmic rays for high-energy phenomena, monitoring space weather, and innovating in detection technologies.
 
+## The Team
+LEOPARD Lab is directed by Prof. Edgar Carrera Jarrín and Prof. Dennis Cazar at USFQ. [Juan Esteban Zurita](https://github.com/jezur) is the site repository maintainer. 
 
 ## Contact
-
-If you wish to report an issue or suggest an improvement, please open an [issue](https://github.com/USFQ-Leopard/.github/issues) in this Github repository, and we can follow up on your questions or suggestions. You can also contact Juan via [LinkedIn](www.linkedin.com/in/jezurita). 
+If you wish to report an issue or suggest an improvement, please open an [issue](https://github.com/USFQ-Leopard/.github/issues) in this Github repository, and we can follow up on your questions or suggestions. You can also contact Juan via [LinkedIn](www.linkedin.com/in/jezurita) if necessary. 
 
 
 <!--
