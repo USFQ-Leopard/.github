@@ -3,10 +3,9 @@
 ![](https://github.com/USFQ-Leopard/.github/blob/main/profile/img/leopard_logo.JPG)
 
 
-This is the Github repo for the [LEOPARD Lab](https://www.usfq.edu.ec/es/grupos-de-investigacion/laboratorio-de-deteccion-de-particulas-astroparticulas-y-radiaciones)  
-at Universidad San Francisco de Quito (USFQ) supports advanced research 
-in physics and engineering by providing infrastructure and fostering collaborations, both locally and internationally. 
-It is involved with significant scientific collaborations such as the CMS at 
+This is the Github repo for the [LEOPARD Lab](https://www.usfq.edu.ec/es/grupos-de-investigacion/laboratorio-de-deteccion-de-particulas-astroparticulas-y-radiaciones) at 
+Universidad San Francisco de Quito (USFQ) supports advanced research in physics and engineering by providing infrastructure and fostering collaborations, 
+both locally and internationally. It is involved with significant scientific collaborations such as the CMS at 
 [CERN's LHC](https://home.cern/science/accelerators/large-hadron-collider) and [The Latin American Giant 
 Observatory (LAGO)](http://lagoproject.net/index.html). The lab's research focuses on particle physics, astroparticle 
 physics, and the development of detection systems. Its main activities include analyzing particle collider data, 
