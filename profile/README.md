@@ -1,5 +1,7 @@
 # Laboratorio de dEtecciÓn de Partículas Astropartículas y RaDiación  
 
+![](./img/leopard_logo.png)
+
 This is the Github repo for the LEOPARD Lab at Universidad San Francisco de Quito (USFQ) supports advanced research 
 in physics and engineering by providing infrastructure and fostering collaborations, both locally and internationally. 
 It is involved with significant scientific collaborations such as the CMS at 
