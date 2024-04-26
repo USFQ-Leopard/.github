@@ -4,7 +4,7 @@ This is the Github repo for the [LEOPARD Lab](https://www.usfq.edu.ec/es/grupos-
 
 ![](https://github.com/USFQ-Leopard/.github/blob/main/profile/img/leopard_logo.JPG)
 
-The Spanish version is available [here]([README_SPANISH.md](https://github.com/USFQ-Leopard/.github/blob/main/profile/README_SPANISH.md)).
+The Spanish version is available [here](https://github.com/USFQ-Leopard/.github/blob/main/profile/README_SPANISH.md).
 
 ### Table of Contents
 1. [About the Lab](#about-the-lab)
